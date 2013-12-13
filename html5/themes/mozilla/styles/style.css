@@ -19,7 +19,7 @@ body:after {
 	right:10px;
 	width:153px;
 	height:41px;
-	background:url(https://raw.github.com/codepo8/mozilla-presentation-templates/master/html5/themes/mozilla/images/tab-2.png);
+	background:url(https://raw.github.com/dajbelshaw/mozilla-presentation-templates/master/html5/themes/mozilla/images/tab-2.png);
 	content:'';
 	}
 
@@ -45,7 +45,7 @@ body:after {
 	padding:80px 120px 0;
 	width:784px;
 	height:560px;
-	background:url(https://raw.github.com/codepo8/mozilla-presentation-templates/master/html5/themes/mozilla/images/bg-sandstone-2.png);
+	background:url(https://raw.github.com/dajbelshaw/mozilla-presentation-templates/master/html5/themes/mozilla/images/bg-sandstone-2.png);
 	color:rgb(62,62,62);
 	}
 
@@ -73,7 +73,7 @@ body:after {
 	opacity: 1; 
 }
 .fade .full .slide { 
-	background: url(https://raw.github.com/codepo8/mozilla-presentation-templates/master/html5/themes/mozilla/images/bg-sandstone-2.png); 
+	background: url(https://raw.github.com/dajbelshaw/mozilla-presentation-templates/master/html5/themes/mozilla/images/bg-sandstone-2.png); 
 }
 /* 
 	Picture frame
@@ -394,7 +394,7 @@ blockquote .quotesource {
 .list {
 	float:left;
 	padding:80px 0 80px 100px;
-	background:#585A5E url(https://raw.github.com/codepo8/mozilla-presentation-templates/master/html5/themes/mozilla/images/bg-darkgrey-2.png) fixed;
+	background:#585A5E url(https://raw.github.com/dajbelshaw/mozilla-presentation-templates/master/html5/themes/mozilla/images/bg-darkgrey-2.png) fixed;
 	}
 
 /* Caption */
